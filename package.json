@@ -34,5 +34,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "uuid": "^9.0.0"
   }
 }
